@@ -4,4 +4,4 @@ PWA demo
 link:https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp
 
 
----使用服务工作线程缓存预报数据
+---现在应用应能完全离线运行了。保存两个城市
