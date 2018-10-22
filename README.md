@@ -20,3 +20,6 @@ link:https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp
 ->发出的缓存及网络请求，如何知道它是否显示了最新数据？ =>更新卡片时，都有隐藏保存数据存储的时间戳，与传递给更新函数的时间戳对比
 5：添加到桌面
 ->添加manifest.json文件声明应该清单（指定启动哪些内容，如何向用户显示）
+
+
+---fetch逻辑
