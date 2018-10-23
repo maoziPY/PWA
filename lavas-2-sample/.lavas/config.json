@@ -1,0 +1,35 @@
+{
+    "buildVersion": 1540285483591,
+    "build": {
+        "ssr": false,
+        "publicPath": "/",
+        "compress": false,
+        "cssExtract": false
+    },
+    "middleware": {
+        "all": [],
+        "server": [],
+        "client": []
+    },
+    "router": {
+        "mode": "history",
+        "base": "/",
+        "pageTransition": {
+            "type": "fade",
+            "transitionClass": "fade"
+        }
+    },
+    "errorHandler": {
+        "defaultErrorMessage": "Internal Server Error",
+        "showRealErrorMessage": false,
+        "errorPath": "/error"
+    },
+    "serviceWorker": {
+        "enable": true,
+        "swDest": "F:\\workspace\\localDemo\\2018\\pwa\\lavas-2-sample\\dist\\service-worker.js"
+    },
+    "skeleton": {
+        "enable": true,
+        "asyncCSS": true
+    }
+}
